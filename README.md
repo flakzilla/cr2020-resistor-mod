@@ -1,4 +1,4 @@
-# Yamaha CR-2020 filter cap board resistor offboard riser
+# Yamaha CR-2020 dropper resistor offboard riser
 Riser board that relocates the NB+/- dropper resistors to a place where the heat can escape more easily.
 
 No gerbers for this one, a service like OSH Park can make it using just the KiCAD project.
